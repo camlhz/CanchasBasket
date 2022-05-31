@@ -30,3 +30,11 @@
    display: block;
    margin: auto;
 }
+
+.blanco {
+    color:white;
+}
+
+.fondoNegro {
+    background-color: black;
+}
